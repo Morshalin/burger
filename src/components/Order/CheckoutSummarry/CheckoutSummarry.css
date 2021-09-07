@@ -1,0 +1,11 @@
+.CheckSummary{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+@media(min-width:600px){
+    .CheckSummary{
+        width: 500px;
+    }
+}
